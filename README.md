@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Subhadeep Roy and I'm a CSE undergrad, from Techno Main Salt Lake</p>
+<p align="left">Yo man. everything is censored here. Bye Bye</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning C++, Java, NextJs and Typescript<br>🎯 Goals: Let's see LOL<br>🎲 Fun fact: I play Chess :)</p>
+<p align="left">✨ Creating bugs since 2022<br>We Kinda best.</p>
 
 ###
 
